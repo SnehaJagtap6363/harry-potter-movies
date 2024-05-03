@@ -1,0 +1,14 @@
+@import "../node_modules/mini.css/dist/mini-dark.min.css";
+
+.bg-body {
+    background: #e7f1f9 !important;
+}
+
+.c-black,
+div {
+    color: black !important;
+}
+
+.text-align-justify {
+    text-align: justify;
+}

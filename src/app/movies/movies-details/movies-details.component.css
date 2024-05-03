@@ -1,0 +1,13 @@
+  table td {
+      background: #e7f1f9 !important;
+      color: black;
+  }
+
+  table td:nth-child(1) {  
+    width: 20% !important;
+    flex: none;
+    text-align: end;
+    border-right-width: 3px;
+    background: #dae7f1 !important;
+    border-right-color: black;
+  }

@@ -1,0 +1,24 @@
+.filter-section {
+  background: #dae7f1 !important;
+}
+   
+  input {
+    display: flex;
+    background: #d7d9db;
+    color: #000;
+  }
+
+  .btn-details {
+    background-color: #d7d9db; 
+   } 
+  
+  .sub-header{
+    width: 200%;
+    display: flex;
+    font-size: small;
+    margin-left: 1%;
+    color: #000;
+    margin-top: -1%;
+  }
+
+  
